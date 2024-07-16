@@ -1,0 +1,36 @@
+.programs {
+  margin: 80px auto;
+}
+.programs img {
+  width: 100%;
+  border-radius: 10px;
+}
+.programs .program {
+  position: relative;
+}
+.programs .caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10x;
+  background-color: rgba(0, 15, 152, 0.3);
+  opacity: 0;
+  padding-top: 70%;
+  transition: 0.4s;
+}
+.programs .caption img {
+  width: 60px;
+  margin-bottom: 10px;
+}
+.programs .program:hover .caption {
+  opacity: 1;
+  padding-top: 0;
+}/*# sourceMappingURL=Program.css.map */

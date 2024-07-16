@@ -1,0 +1,8 @@
+.gallery img {
+  width: 100%;
+  border-radius: 10px;
+}
+.gallery .moreBtn {
+  display: block;
+  text-align: center;
+}/*# sourceMappingURL=Gallary.css.map */
