@@ -1,0 +1,28 @@
+.user_card{
+    padding: 22px 50px;
+    .card_head{
+        display: flex;
+        align-items: center;
+        .name{
+            line-height: 1;
+        }
+        img{
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 5px solid #212EA0;
+            margin-right: 7px;
+        }
+        p{
+            margin-bottom: 0;
+            color: #676767;
+        
+        }
+    }
+    .card_body{
+        p{
+            margin-top: 20px;
+            font-size: 15px;
+        }
+    }
+}

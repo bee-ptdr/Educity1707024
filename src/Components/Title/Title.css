@@ -3,14 +3,15 @@
   text-transform: uppercase;
   margin: 70px 0 30px;
   font-size: 15px;
-  font-weight: 600;
   color: #212EA0;
 }
 .title h2 {
   text-transform: none;
   margin-top: 5px;
   font-size: 32px;
+  font-weight: 700;
 }
 .title p {
   font-size: 15px;
+  font-weight: 600;
 }/*# sourceMappingURL=Title.css.map */

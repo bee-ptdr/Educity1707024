@@ -1,0 +1,44 @@
+.contact_sec {
+  margin-bottom: 100px;
+}
+
+.address_content .contact_links {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.address_content .contact_links p {
+  margin-left: 9px;
+}
+.address_content .contact_links .location {
+  line-height: 1.2;
+}
+.address_content .contact_links .icon {
+  font-size: 25px;
+  color: #212EA0;
+}
+.address_content .contact_links .icon_phone {
+  font-size: 19px;
+  color: #212EA0;
+}
+
+.form_content input {
+  background-color: #d1d5f9 !important;
+}
+.form_content textarea {
+  background-color: #d1d5f9 !important;
+}
+.form_content input::-moz-placeholder {
+  font-size: 15px !important;
+  color: #676767 !important;
+}
+.form_content input::placeholder {
+  font-size: 15px !important;
+  color: #676767 !important;
+}
+
+p {
+  font-size: 15px;
+  margin-bottom: 0;
+}/*# sourceMappingURL=Contact.css.map */

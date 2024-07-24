@@ -1,0 +1,25 @@
+.user_card {
+  padding: 22px 50px;
+}
+.user_card .card_head {
+  display: flex;
+  align-items: center;
+}
+.user_card .card_head .name {
+  line-height: 1;
+}
+.user_card .card_head img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 5px solid #212EA0;
+  margin-right: 7px;
+}
+.user_card .card_head p {
+  margin-bottom: 0;
+  color: #676767;
+}
+.user_card .card_body p {
+  margin-top: 20px;
+  font-size: 15px;
+}/*# sourceMappingURL=Carousal.css.map */

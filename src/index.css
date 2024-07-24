@@ -10,6 +10,7 @@
 :root {
     --brandColor : #000f38;
     --brandLight : #212EA0;
+    --textColor : #676767;
 }
 
 body {
@@ -45,7 +46,15 @@ a {
     color: #fff;
     margin-top: 30px;
     border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     
+}
+.button2 img{
+    width: 20px;
+    margin-top: 3px;
+    margin-left: 5px;
 }
 
 .brand_color{
@@ -53,4 +62,11 @@ a {
 }
 .brand_light{
     color: var(--brandLight);
+}
+.nav_bgColor{
+    background: var(--brandLight);
+    transition: ease-out 0.1s;
+}
+.text_color{
+    color: var(--textColor);
 }

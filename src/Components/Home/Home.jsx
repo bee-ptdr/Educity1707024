@@ -1,7 +1,10 @@
 import React from 'react';
 import './Home.css';
-
-
+import Program from '../Program/Program';
+import Gallary from '../Gallary/Gallary';
+import About from '../About/About';
+import Carousal from '../Testimonials/Carousal';
+import Contact from '../Contact/Contact';
 
 function Home() {
     return (
@@ -13,6 +16,11 @@ function Home() {
                     <button className='button'>Explore More</button>
                 </div>
             </div>
+            <Program/>
+            <About/>
+            <Gallary/>
+            <Carousal/>
+            <Contact/>
 
         </>
     )

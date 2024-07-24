@@ -4,7 +4,7 @@ import about from "../../assets/about.png"
 function About() {
     return (
         <>
-            <div className="about">
+            <div className="about main_container">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-5">
