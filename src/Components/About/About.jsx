@@ -14,7 +14,7 @@ function About() {
                         </div>
                         <div className="col-md-7">
                             <div className="right_about">
-                                <h4 className='brand_light' >ABOUT YOUR UNIVERSITY</h4>
+                                <h4 className='brand_light' >ABOUT OUR UNIVERSITY</h4>
                                 <h2 className='brand_color'>Nurturing Tomorrow's Leaders Today</h2>
                                 <p>Embark on transformative education journey with our university comparahensive education programs. Our cutting-edge curriculum is designed to empower students with the knowledge, skills and experience needed to excel in the dynamic field of education.</p>
                                 <p>With a focus of innovation, hands-on learning, and personalized mentorship, our programs prepare espiring educator to make a meaningfull empact in classroom, schools and communities</p>
